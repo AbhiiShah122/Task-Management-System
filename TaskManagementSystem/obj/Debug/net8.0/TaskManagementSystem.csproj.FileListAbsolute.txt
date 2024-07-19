@@ -1,0 +1,412 @@
+D:\Practise\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.csproj.AssemblyReference.cache
+D:\Practise\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practise\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.AssemblyInfoInputs.cache
+D:\Practise\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.AssemblyInfo.cs
+D:\Practise\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.csproj.CoreCompileInputs.cache
+D:\Practise\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+D:\Practise\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\appsettings.Development.json
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\appsettings.json
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\TaskManagementSystem.exe
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\TaskManagementSystem.deps.json
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\TaskManagementSystem.runtimeconfig.json
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\TaskManagementSystem.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\TaskManagementSystem.pdb
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Azure.Core.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Azure.Identity.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Humanizer.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.CodeDom.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Text.Json.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\staticwebassets.build.json
+D:\Practise\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\staticwebassets.development.json
+D:\Practise\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.TaskManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Practise\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.TaskManagementSystem.props
+D:\Practise\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TaskManagementSystem.props
+D:\Practise\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskManagementSystem.props
+D:\Practise\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Practise\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\scopedcss\bundle\TaskManagementSystem.styles.css
+D:\Practise\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.csproj.CopyComplete
+D:\Practise\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\refint\TaskManagementSystem.dll
+D:\Practise\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.pdb
+D:\Practise\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.genruntimeconfig.cache
+D:\Practise\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\ref\TaskManagementSystem.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\appsettings.Development.json
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\appsettings.json
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\TaskManagementSystem.exe
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\TaskManagementSystem.deps.json
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\TaskManagementSystem.runtimeconfig.json
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\TaskManagementSystem.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\TaskManagementSystem.pdb
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Azure.Core.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Azure.Identity.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Humanizer.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.CodeDom.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Text.Json.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.csproj.AssemblyReference.cache
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.AssemblyInfoInputs.cache
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.AssemblyInfo.cs
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.csproj.CoreCompileInputs.cache
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\staticwebassets.build.json
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\staticwebassets.development.json
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.TaskManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.TaskManagementSystem.props
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TaskManagementSystem.props
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskManagementSystem.props
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\scopedcss\bundle\TaskManagementSystem.styles.css
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskMana.27CB023B.Up2Date
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\refint\TaskManagementSystem.dll
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.pdb
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.genruntimeconfig.cache
+D:\Abhi - Study\Code Practise\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\ref\TaskManagementSystem.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\appsettings.Development.json
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\appsettings.json
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\TaskManagementSystem.exe
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\TaskManagementSystem.deps.json
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\TaskManagementSystem.runtimeconfig.json
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\TaskManagementSystem.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\TaskManagementSystem.pdb
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Azure.Core.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Azure.Identity.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Humanizer.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.CodeDom.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Text.Json.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.csproj.AssemblyReference.cache
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.AssemblyInfoInputs.cache
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.AssemblyInfo.cs
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.csproj.CoreCompileInputs.cache
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\staticwebassets.build.json
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\staticwebassets.development.json
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.TaskManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.TaskManagementSystem.props
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TaskManagementSystem.props
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskManagementSystem.props
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\scopedcss\bundle\TaskManagementSystem.styles.css
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.csproj.CopyComplete
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\refint\TaskManagementSystem.dll
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.pdb
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.genruntimeconfig.cache
+D:\Practise\Assignment\TaskManagementSystem\TaskManagementSystem\TaskManagementSystem\obj\Debug\net8.0\ref\TaskManagementSystem.dll
