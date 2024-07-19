@@ -110,17 +110,17 @@ Responsible for managing tasks with various endpoints protected by role-based ac
 
 ## Features to Check-Out
 
-## 1. Inheritance in UserEntity Table
+### 1. Inheritance in UserEntity Table
 
 We have implemented inheritance in our `UserEntity` table by creating derived entities such as `Employee`, `Admin`, and `Manager`. This approach is known as the **Table Per Hierarchy (TPH)** inheritance pattern.
 
-### Benefits of TPH:
+#### Benefits of TPH:
 
 - **Simplicity**: TPH keeps the database schema simple by storing all entities in a single table, which can simplify queries and reduce the complexity of the database design.
 - **Performance**: Since all data is stored in a single table, it can lead to faster query performance for operations that need to access multiple types of users at once.
 - **Maintainability**: Changes to the base entity are automatically inherited by the derived entities, making it easier to maintain and update the data model.
 
-## 2. Structuring APIs into One Controller (TaskController)
+### 2. Structuring APIs into One Controller (TaskController)
 
 By structuring all task-related APIs within a single `TaskController`, we achieve several benefits:
 
@@ -128,14 +128,14 @@ By structuring all task-related APIs within a single `TaskController`, we achiev
 - **Ease of Use**: For API consumers, having a single point of access for all task-related operations can simplify the integration process and improve the overall user experience.
 - **Maintainability**: Centralizing task-related logic in one controller facilitates easier updates and maintenance, as changes to task handling are localized within a single area of the application.
 
-## 3. Providing Calculated Responses for Admin APIs
+### 3. Providing Calculated Responses for Admin APIs
 
 For Admin APIs, we provide calculated responses that include statistics such as `totalTasks`, `completedOnTime`, `completedLate`, `inProgress`, and `pastDue`. This is achieved through:
 
 - **Aggregation Queries**: Utilizing SQL or ORM capabilities to perform aggregation queries that calculate these statistics based on the current state of tasks in the database.
 - **Business Logic Layer**: Implementing business logic in the application layer that processes task data to compute these statistics, allowing for more complex calculations that might not be easily achievable through simple database queries.
 
-### Benefits:
+#### Benefits:
 
 - **Insightful Reporting**: Admins receive valuable insights into task performance and team productivity, enabling informed decision-making.
 - **Real-time Data Access**: By calculating these statistics on demand, admins have access to up-to-date information reflecting the current state of tasks.
