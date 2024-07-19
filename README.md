@@ -37,7 +37,7 @@ The system is built on a multi-layered architecture to ensure separation of conc
 
 ## Database Design
 
-The database for our Task Management System is designed using the Code First approach and created below Tables:
+The database for our Task Management System is designed using the **Code First Approach** and created below Tables:
 
 - **Users**: This table stores information about all users in the system. It acts as a base table for different types of users such as Employees, Managers, and Admins, demonstrating the use of inheritance in our database design.
 - **Employees**: Inherits from the Users table and stores specific information related to employees.
